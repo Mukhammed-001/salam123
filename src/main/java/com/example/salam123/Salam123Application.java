@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Salam123Application {
 
     public static void main(String[] args) {
-        int n = 123;
+        int n = 3221;
         SpringApplication.run(Salam123Application.class, args);
     }
 
